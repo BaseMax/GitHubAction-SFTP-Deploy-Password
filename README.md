@@ -2,6 +2,12 @@
 
 Automatically deploy and upload new pushed files to a server by **SFTP** protocol directly with password without SSH keys.
 
+#### Why this one and GitHub Actions?
+
+It took me several hours to prepare and test this configuration, I'm happy to share this for free to save others time.
+
+GitHub Actions are great to use in projects. Happy coding ^_^
+
 ### GitHub Action
 
 Create `.github/workflows/deploy.yml` file:
