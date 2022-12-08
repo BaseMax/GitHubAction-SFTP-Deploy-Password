@@ -1,4 +1,4 @@
-# GitHub Actions: Deploy SFTP with Password
+# GitHub Actions: Deploy to SFTP with Password
 
 Automatically deploy and upload new pushed files to a server by **SFTP** protocol directly with password without SSH keys.
 
