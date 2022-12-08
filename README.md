@@ -12,7 +12,7 @@ GitHub Actions are great to use in projects. Happy coding ^_^
 
 Create `.github/workflows/deploy.yml` file:
 
-```
+```yml
 on: [push]
 
 jobs:
@@ -44,3 +44,5 @@ jobs:
 - `SERVER_USERNAME`
 - `SERVER_PASSWORD`
 - `SERVER_PATH`
+
+© Copyright Max Base, 2022
